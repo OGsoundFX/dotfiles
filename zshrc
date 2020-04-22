@@ -42,3 +42,7 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export DISPLAY=127.0.0.53:0
+export DISPLAY=127.0.0.53:0
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
